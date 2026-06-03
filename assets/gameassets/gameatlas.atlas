@@ -1,0 +1,225 @@
+
+gameatlas.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+core/bonus
+  rotate: false
+  xy: 2, 2
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+core/character_hero
+  rotate: false
+  xy: 384, 602
+  size: 375, 374
+  orig: 375, 374
+  offset: 0, 0
+  index: -1
+core/enemy_anxiety
+  rotate: false
+  xy: 203, 445
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+core/enemy_fear
+  rotate: false
+  xy: 203, 290
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+core/enemy_trauma
+  rotate: false
+  xy: 856, 49
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+core/map_tile
+  rotate: false
+  xy: 642, 447
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+core/pet_bear
+  rotate: false
+  xy: 761, 720
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+core/pet_cat
+  rotate: false
+  xy: 761, 462
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+core/pet_doggo
+  rotate: false
+  xy: 384, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+core/pet_owl
+  rotate: false
+  xy: 708, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+core/pet_penguey
+  rotate: false
+  xy: 401, 86
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+core/pet_story_cat
+  rotate: false
+  xy: 2, 601
+  size: 380, 375
+  orig: 380, 375
+  offset: 0, 0
+  index: -1
+core/projectile_courage
+  rotate: false
+  xy: 2, 405
+  size: 197, 194
+  orig: 197, 194
+  offset: 0, 0
+  index: -1
+core/projectile_joy
+  rotate: false
+  xy: 203, 8
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+core/projectile_love
+  rotate: false
+  xy: 2, 208
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1
+core/projectile_peace
+  rotate: false
+  xy: 659, 8
+  size: 195, 194
+  orig: 195, 194
+  offset: 0, 0
+  index: -1
+core/ui-close-icon
+  rotate: false
+  xy: 642, 513
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+
+gameatlas2.png
+size: 256, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+core/enemy_doubt
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+
+gameatlas3.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+components/ui-white-pixel
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  split: 3, 3, 3, 3
+  pad: 0, 0, 0, 0
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-30
+  rotate: false
+  xy: 533, 50
+  size: 70, 70
+  split: 34, 34, 34, 34
+  pad: 0, 0, 0, 0
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-35
+  rotate: false
+  xy: 459, 48
+  size: 72, 72
+  split: 36, 35, 35, 36
+  pad: 0, 0, 0, 0
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-40
+  rotate: false
+  xy: 214, 38
+  size: 82, 82
+  split: 38, 41, 39, 41
+  pad: 0, 0, 0, 0
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-50
+  rotate: false
+  xy: 110, 18
+  size: 102, 102
+  split: 50, 50, 51, 50
+  pad: 0, 0, 0, 0
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-border-30
+  rotate: false
+  xy: 605, 58
+  size: 62, 62
+  split: 29, 29, 29, 29
+  pad: 0, 0, 0, 0
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-border-35
+  rotate: false
+  xy: 382, 44
+  size: 75, 76
+  split: 35, 36, 36, 36
+  pad: 0, 0, 0, 0
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-border-40
+  rotate: false
+  xy: 298, 38
+  size: 82, 82
+  split: 39, 39, 39, 39
+  pad: 0, 0, 0, 0
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+components/ui-white-squircle-border-50
+  rotate: false
+  xy: 2, 14
+  size: 106, 106
+  split: 51, 51, 51, 51
+  pad: 0, 0, 0, 0
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
